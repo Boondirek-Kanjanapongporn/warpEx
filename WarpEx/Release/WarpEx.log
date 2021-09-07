@@ -1,0 +1,21 @@
+﻿  WarpExGUI.cpp
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.h(13,1): warning C4005: 'LIGHTGRAY': macro redefinition
+C:\raylib\raylib\src\raylib.h(128): message : see previous definition of 'LIGHTGRAY'
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.h(53,50): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.h(53,50): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.h(53,59): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.h(53,59): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.h(53,70): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.h(53,70): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.cpp(38,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.cpp(38,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.cpp(41,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.cpp(41,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.cpp(44,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\boond\source\repos\WarpEx\WarpEx\WarpExGUI.cpp(44,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  2 of 127 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WarpEx.vcxproj -> C:\Users\boond\source\repos\WarpEx\Release\WarpEx.exe

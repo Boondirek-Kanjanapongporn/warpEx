@@ -1,0 +1,16 @@
+﻿WarpExGUI.obj : error LNK2019: unresolved external symbol InitWindow referenced in function "void __cdecl My_Project(void)" (?My_Project@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol WindowShouldClose referenced in function "void __cdecl My_Project(void)" (?My_Project@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol ClearBackground referenced in function "void __cdecl My_Project(void)" (?My_Project@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol BeginDrawing referenced in function "void __cdecl My_Project(void)" (?My_Project@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol EndDrawing referenced in function "void __cdecl My_Project(void)" (?My_Project@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol SetTargetFPS referenced in function "void __cdecl My_Project(void)" (?My_Project@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol IsKeyPressed referenced in function "void __cdecl My_Project(void)" (?My_Project@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol GetMousePosition referenced in function "void __cdecl My_Project(void)" (?My_Project@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol DrawLineEx referenced in function "void __cdecl DRAW_MENU_BAR(void)" (?DRAW_MENU_BAR@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol DrawCircleV referenced in function "void __cdecl DRAW_MENU_BAR(void)" (?DRAW_MENU_BAR@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol DrawRectangleRounded referenced in function "void __cdecl DRAW_MENU_BAR(void)" (?DRAW_MENU_BAR@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol LoadTexture referenced in function "void __cdecl `dynamic initializer for 'start_background''(void)" (??__Estart_background@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol UnloadTexture referenced in function "void __cdecl My_Project(void)" (?My_Project@@YAXXZ)
+WarpExGUI.obj : error LNK2019: unresolved external symbol DrawText referenced in function "void __cdecl DRAW_MENU_BAR(void)" (?DRAW_MENU_BAR@@YAXXZ)
+C:\raylib\raylib\projects\VS2017\bin\Win32\Release.DLL\raylib.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\boond\source\repos\WarpEx\x64\Debug\WarpEx.exe : fatal error LNK1120: 14 unresolved externals
